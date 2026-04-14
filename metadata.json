@@ -1,0 +1,8 @@
+{
+  "name": "EmoSphere - Mental Wellness Tracker",
+  "description": "A calming, AI-powered mental wellness tracker featuring mood logging, image-based journaling analysis, real-time wellness tips via Google Search, and narrated quotes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
