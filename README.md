@@ -122,35 +122,6 @@ Locally preview the production build before deployment.
 
 ---
 
-## 🧩 Key Components
-
-### Authentication
-- **AuthModal** - Handles user login/registration with email validation
-- Persistent user sessions via localStorage
-
-### Mood Tracking Core
-- **MoodHistory** - Displays all logged mood entries
-- **MoodInsights** - Analyzes mood patterns and provides trends
-- **Moodboard** - Visual representation of emotional states
-
-### Wellness Features
-- **WellnessGoals** - CRUD operations for personal wellness objectives
-- **GratitudeJournal** - Daily gratitude practice
-- **ImageJournal** - Visual emotional expression through images
-- **BreathingExercise** - Guided relaxation techniques
-
-### Premium Features
-- **SubscriptionModal** - Upgrade pathway to premium tier
-- **WellnessExtension** - Advanced premium wellness features
-- **WellnessVoiceAgent** - Voice-interactive wellness guidance
-
-### Support & Information
-- **CrisisSupportModal** - Crisis hotlines and emotional support resources
-- **DailyQuotes** - Inspirational and wellness quotes
-- **WellnessTips** - AI-generated health recommendations
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
