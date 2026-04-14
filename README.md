@@ -1,9 +1,8 @@
 # 🌟 EmoSphere - AI-Powered Mental Wellness & Mood Tracking
 ### A modern, interactive platform for emotional health tracking, AI-powered wellness recommendations, and personal growth. Built with React, TypeScript, and Google Gemini AI for intelligent mental wellness support.
-
+---
 
 ## ✨ Features
-
 ### Core Mood & Wellness Tracking
 - **Mood Tracking** - Log daily moods (Happy, Calm, Sad, Anxious, Energized, Tired) with timestamps
 - **Mood History** - View past mood entries with detailed visualization
