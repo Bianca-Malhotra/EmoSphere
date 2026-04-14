@@ -133,9 +133,9 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ---
+## 👤 Developer
 
-## 📄 License
+**Bianca Malhotra**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
+## 📜 License
+© 2026 Bianca Malhotra. Built with ❤️ for the developer community.
