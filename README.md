@@ -1,29 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="EmoSphere Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # 🌟 EmoSphere - AI-Powered Mental Wellness & Mood Tracking
 
 A modern, interactive platform for emotional health tracking, AI-powered wellness recommendations, and personal growth. Built with React, TypeScript, and Google Gemini AI for intelligent mental wellness support.
-
-**View the app in AI Studio:** [https://ai.studio/apps/drive/1zn44XdYJjcmrg_-_dVm53ewsEeKvZb7R](https://ai.studio/apps/drive/1zn44XdYJjcmrg_-_dVm53ewsEeKvZb7R)
-
----
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Running the App](#running-the-app)
-- [Project Structure](#project-structure)
-- [Key Components](#key-components)
-- [Services](#services)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## ✨ Features
@@ -145,56 +122,6 @@ Locally preview the production build before deployment.
 
 ---
 
-## 📁 Project Structure
-
-```
-EmoSphere/
-├── components/                 # Reusable React components
-│   ├── AuthModal.tsx          # User authentication modal
-│   ├── BreathingExercise.tsx   # Guided breathing exercises
-│   ├── ConcentrationHub.tsx    # Focus/productivity tools
-│   ├── CrisisCard.tsx          # Crisis support information
-│   ├── CrisisSupportModal.tsx  # Crisis resources modal
-│   ├── DailyActivity.tsx       # Activity tracking component
-│   ├── DailyQuotes.tsx         # Daily inspirational quotes
-│   ├── GratitudeJournal.tsx    # Gratitude entry component
-│   ├── ImageJournal.tsx        # Visual journaling with images
-│   ├── Moodboard.tsx           # Visual mood representation
-│   ├── MoodHistory.tsx         # Historical mood data display
-│   ├── MoodInsights.tsx        # Mood pattern analysis
-│   ├── Navbar.tsx              # Navigation bar with user menu
-│   ├── PrivacyModal.tsx        # Privacy policy modal
-│   ├── SubscriptionModal.tsx   # Premium upgrade modal
-│   ├── TermsModal.tsx          # Terms of service modal
-│   ├── WeeklyVibration.tsx     # Weekly wellness assessment
-│   ├── WellnessAssessmentModal.tsx # Comprehensive wellness eval
-│   ├── WellnessExtension.tsx   # Premium wellness features
-│   ├── WellnessGoals.tsx       # Goal setting/tracking
-│   ├── WellnessTips.tsx        # Health recommendations
-│   └── WellnessVoiceAgent.tsx  # Voice-based assistant
-│
-├── pages/                       # Page-level components
-│   ├── HomePage.tsx            # Landing/home page
-│   └── Dashboard.tsx           # Main user dashboard
-│
-├── services/                    # External service integrations
-│   ├── authService.ts          # Authentication logic
-│   ├── geminiService.ts        # Gemini API integration
-│   └── wellnessService.ts      # Wellness data management
-│
-├── App.tsx                      # Root app component
-├── index.tsx                    # React entry point
-├── constants.tsx               # Application constants & themes
-├── types.ts                     # TypeScript type definitions
-├── index.html                   # HTML template
-├── vite.config.ts             # Vite configuration
-├── tsconfig.json              # TypeScript configuration
-├── package.json               # Dependencies & scripts
-└── README.md                  # This file
-```
-
----
-
 ## 🧩 Key Components
 
 ### Authentication
@@ -224,51 +151,6 @@ EmoSphere/
 
 ---
 
-## 🔌 Services
-
-### authService.ts
-Handles user authentication:
-- User registration and login
-- Session persistence
-- User data management
-
-### geminiService.ts
-Integrates with Google Gemini API:
-- Sentiment analysis of mood entries
-- AI-generated wellness recommendations
-- Personalized advice based on user data
-- Daily quote generation
-
-### wellnessService.ts
-Core wellness data operations:
-- Mood entry CRUD operations
-- Wellness goal management
-- Gratitude entry storage
-- Assessment data handling
-
----
-
-## 🎨 Features Highlight
-
-### Theme System
-Multiple customizable themes with seamless switching:
-- Dynamic background colors
-- Dark/light mode support
-- User preference persistence
-
-### Local Storage
-Essential data persisted locally:
-- User authentication state
-- Theme preferences
-- Mood entries
-- Wellness data
-- Premium status
-
-### Real-Time Updates
-Instant UI feedback for all user actions with smooth transitions.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -286,19 +168,3 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-## 📧 Support
-
-For questions, feedback, or bug reports, please open an issue on GitHub or contact the project maintainers.
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [React](https://react.dev/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- AI powered by [Google Gemini](https://deepmind.google/technologies/gemini/)
-- Bundled with [Vite](https://vitejs.dev/)
-#   E m o S p h e r e 
- 
- 
