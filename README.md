@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c042c57-b23c-4ff9-964f-c7de5edb98b3" alt="EmoSphere Logo" width="150" />
+</p>
+
 # 🌟 EmoSphere - AI-Powered Mental Wellness & Mood Tracking
+
 ### A modern, interactive platform for emotional health tracking, AI-powered wellness recommendations, and personal growth. Built with React, TypeScript, and Google Gemini AI for intelligent mental wellness support.
 ---
 
