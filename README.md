@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c042c57-b23c-4ff9-964f-c7de5edb98b3" alt="EmoSphere Logo" width="150" />
+  <img src="https://github.com/user-attachments/assets/1c042c57-b23c-4ff9-964f-c7de5edb98b3" alt="EmoSphere Logo" width="300" />
 </p>
 
 # 🌟 EmoSphere - AI-Powered Mental Wellness & Mood Tracking
